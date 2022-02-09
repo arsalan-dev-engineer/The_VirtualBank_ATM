@@ -46,7 +46,7 @@ int main(){
 
         case 3:
             // case 3 lets user take money out of account
-            cout << "Withdray Amount: $ ";
+            cout << "Withdraw Amount: $ ";
             float withdraw_ttl;
             cin >> withdraw_ttl;
             // condition
